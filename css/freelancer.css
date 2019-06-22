@@ -10741,8 +10741,13 @@ a.text-dark:hover, a.text-dark:focus {
 .masthead .masthead-avatar {
   width: 15rem;
 }
-.backgroundImage {
-  background-image: url(img/bg_00.svg);
+
+.backLayerImg {
+  z-index: 1;
+}
+
+.frontLayerImg {
+  z-index: 3;
 }
 
 @media (min-width: 992px) {
