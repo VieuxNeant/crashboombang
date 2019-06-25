@@ -6966,8 +6966,8 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: rgb(220,35,69) !important;
-  opacity:0.6;
+  background-color: #4ff9d8 !important;
+  opacity:0.9;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
